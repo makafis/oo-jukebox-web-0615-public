@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative "../lib/jukebox"
-
+require 'pry'
 songs = [
   "Phoenix - 1901",
   "Tokyo Police Club - Wait Up",

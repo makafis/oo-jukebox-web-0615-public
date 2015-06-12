@@ -1,3 +1,4 @@
+require 'pry'
 describe 'Jukebox' do
   let(:songs) {
     [
